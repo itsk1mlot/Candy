@@ -1,0 +1,4 @@
+name: Candy
+main: io.github.itsk1mlot.candy.Main
+version: 1.0
+api-version: 1.20
